@@ -11,6 +11,7 @@ ORDER BY
     order_year, order_month;
 
 
+## Output:
 "order_year"	"order_month"	"total_monthly_revenue"	"order_volume"
 2023	           11	              2763201.95	        988
 2023	           12	              3360869.91	        1222
